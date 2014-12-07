@@ -76,8 +76,9 @@ $(document).ready(function() {
     });*/
 	
 	
-	/*
+	
 	var ds_loaded = false;
+	/*
 	var duoshuoQuery = {short_name:"champy"};
 
 		var ds = document.createElement('script');
