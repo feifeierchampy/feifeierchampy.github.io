@@ -6,6 +6,39 @@
     <description>My personal blog</description>
     
       <item>
+        <title>wordpress更换域名</title>
+        <link>/2014/12/08/wordpres-gen-huan-yu-ming.html</link>
+        <guid isPermaLink="true">/2014/12/08/wordpres-gen-huan-yu-ming.html</guid>
+        <pubDate>Mon, 08 Dec 2014 00:00:00 +0800</pubDate>
+        <description>&lt;p&gt;昨晚把之前用wordpress搭建的博客换了域名，只是在域名解析的时候做了不同的转向 具体的数据库都忘了改&lt;br&gt;
+当时浏览着还没问题 今天一看 整个乱了 点击后还回跳转到之前的域名&lt;/p&gt;
+
+&lt;p&gt;在网上搜了下将wordpress数据库中的地址变成新域名&lt;br&gt;
+我用的虚拟空间是用的cpanel面板 可以直接进去phpMyadmin里面执行两条sql语句&lt;/p&gt;
+
+&lt;p&gt;更改博客的安装地址和博客地址  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;UPDATE wp_options&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;SET option_value = replace( option_value,&amp;#39;http://老域名&amp;#39;, &amp;#39;http://新域名&amp;#39;)&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;WHERE option_name = &amp;#39;home&amp;#39; OR option_name =&amp;#39;siteurl&amp;#39;;&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/img/wp-1.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;只执行这条语句后发现一些图片什么的不能正常显示&lt;br&gt;
+还需要修改文章内部所有的链接为新域名  &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;UPDATE wp_posts SET post_content = replace(post_content,&amp;#39;http://老域名&amp;#39;,&amp;#39;http://新域名&amp;#39;);&lt;/code&gt;
+&lt;code&gt;UPDATE wp_posts SET guid = replace( guid,&amp;#39;http://老域名&amp;#39;,&amp;#39;http://新域名&amp;#39;);&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/img/wp-2.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
         <title>关于Github pages或Project pages绑定自己域名的问题</title>
         <link>/2014/12/07/yu-ming-bang-ding.html</link>
         <guid isPermaLink="true">/2014/12/07/yu-ming-bang-ding.html</guid>
