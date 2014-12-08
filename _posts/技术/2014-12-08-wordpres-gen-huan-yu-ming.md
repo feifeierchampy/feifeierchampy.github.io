@@ -14,10 +14,11 @@ description:
 
 
 更改博客的安装地址和博客地址  
-> `UPDATE wp_options`   
-`SET option_value = replace( option_value,'http://老域名', 'http://新域名')`  
-`WHERE option_name = 'home' OR option_name ='siteurl';`
-
+```sql
+UPDATE wp_options   
+SET option_value = replace( option_value,'http://老域名', 'http://新域名')  
+WHERE option_name = 'home' OR option_name ='siteurl';
+```
 
 ![](/public/img/wp-1.png)
 
