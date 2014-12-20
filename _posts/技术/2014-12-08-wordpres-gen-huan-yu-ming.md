@@ -18,7 +18,6 @@ description:
 `SET option_value = replace( option_value,'http://老域名', 'http://新域名')`  
 `WHERE option_name = 'home' OR option_name ='siteurl';`
 
-
 ![](/public/img/wp-1.png)
 
 
