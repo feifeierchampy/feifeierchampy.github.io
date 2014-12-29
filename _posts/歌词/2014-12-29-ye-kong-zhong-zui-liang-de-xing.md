@@ -6,7 +6,7 @@ tags: 歌词
 keywords:
 description:
 ---
-<embed src="http://www.xiami.com/widget/0_1770201852,_235_346_FF8719_494949/multiPlayer.swf" type="application/x-shockwave-flash" width="235" height="346" wmode="opaque"></embed>
+<embed src="http://www.xiami.com/widget/0_1770201852/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 ###逃跑计划-夜空中最亮的星
 
 夜空中最亮的星 能否听清  
