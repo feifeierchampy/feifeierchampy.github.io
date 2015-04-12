@@ -1,8 +1,8 @@
 ---
-layout:post
-title:刘明湘-漂洋过海来看你
-category:歌词
-tags:歌词
+layout: post
+title: 刘明湘-漂洋过海来看你
+category: 歌词
+tags: 歌词
 keywords:
 description:
 ---
