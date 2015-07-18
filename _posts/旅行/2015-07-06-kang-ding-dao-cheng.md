@@ -14,8 +14,7 @@ description:
 6.18 康定周边 折多山 包车一日游  
 6.19 从康定坐汽车到稻城  
 6.20上午 从稻城到亚丁景区  
-
-下午 走短线 珍珠海  
+       下午 走短线 珍珠海  
 6.21 走长线 牛奶海、五色海  
 6.22 稻城周边骑车游
 6.23 从稻城坐汽车返回成都
@@ -23,7 +22,7 @@ description:
 
 
 
--6.17  重庆-康定 汽车 宿康定（康定贡嘎国际青年旅社 帐篷 25元/人）
+-6.17  重庆-康定 汽车 宿康定（康定贡嘎国际青年旅社 帐篷 25元/人）  
 提前一天到陈家坪汽车站买了从重庆到康定的汽车票，250块。。好贵啊。  
 ![车票](/public/img/posts/travel/20150617/chepiao.jpg)  
 然后接下来的一整天就在车上度过，早上8:40开的车，晚上快9点的样子才到康定。  
@@ -44,7 +43,9 @@ description:
 ![日地](/public/img/posts/travel/20150617/ridi2.jpg)  
 ![日地](/public/img/posts/travel/20150617/ridi3.jpg)  
 
-大概快9点的样子到康定了，看别人的攻略去的康定贡嘎国际青年旅社，离汽车站很近，之前有打电话过去，但是到了之后就只剩帐篷住了。。人生第一次住帐篷。  
+大概快9点的样子到康定了，看别人的攻略去的康定贡嘎国际青年旅社，离汽车站很近，之前有打电话过去，但是到了之后就只剩帐篷住了。。人生第一次住帐篷  
+
+ 
 ![帐篷](/public/img/posts/travel/20150617/zhangpeng.jpg)  
 ![帐篷](/public/img/posts/travel/20150617/zhangpeng2.jpg)  
 ![青旅](/public/img/posts/travel/20150617/qinglv.jpg)  
@@ -71,81 +72,81 @@ description:
 另外在这里上了个厕所，出来被要了一块钱，后来发现在高原上人家的厕所都是要收钱的。。  
 上车继续走着，发现不错的地方就喊司机停车  
 天气不是很好啊，雾气弥漫的  
-!(/public/img/posts/travel/20150617/jing1.jpg)  
+![](/public/img/posts/travel/20150617/jing1.jpg)  
 这里海拔已经过了4000米，但也并没有什么感觉，还开心的跳起拍照  
-!(/public/img/posts/travel/20150617/haiba.jpg)  
+![](/public/img/posts/travel/20150617/haiba.jpg)  
 过了一会儿云雾飘散开，渐渐能看到些远处的景色了，好美。  
-!(/public/img/posts/travel/20150617/jing2.jpg)  
-!(/public/img/posts/travel/20150617/jing3.jpg)  
+![](/public/img/posts/travel/20150617/jing2.jpg)  
+![](/public/img/posts/travel/20150617/jing3.jpg)  
 不过还是赶紧拍照啊，一会儿云飘过来又遮住了。  
 继续往前  
 草原上的牦牛，在这里很常见  
-!(/public/img/posts/travel/20150617/maoniu.jpg)  
+![](/public/img/posts/travel/20150617/maoniu.jpg)  
 江巴草原  
-!(/public/img/posts/travel/20150617/jing4.jpg)  
+![](/public/img/posts/travel/20150617/jing4.jpg)  
 竟然偷拍人家妹子，好吧背影感觉还不错  
-!(/public/img/posts/travel/20150617/meizi.jpg)  
+![](/public/img/posts/travel/20150617/meizi.jpg)  
 一看到牦牛我就被吸引过去了  
-!(/public/img/posts/travel/20150617/niu.jpg)  
+![](/public/img/posts/travel/20150617/niu.jpg)  
 可是竟然不鸟我，看到我就跑，牦牛都这么胆小的吗。。  
 青稞酒  
-!(/public/img/posts/travel/20150617/qingkejiu.jpg)  
+![](/public/img/posts/travel/20150617/qingkejiu.jpg)  
 塔公草原  
-!(/public/img/posts/travel/20150617/tagongcaoyuan.jpg)  
+![](/public/img/posts/travel/20150617/tagongcaoyuan.jpg)  
 后面的那是个什么寺来着？名字忘了  
-!(/public/img/posts/travel/20150617/simiao.jpg)  
+![](/public/img/posts/travel/20150617/simiao.jpg)  
  
-!(/public/img/posts/travel/20150617/jing6.jpg)  
-!(/public/img/posts/travel/20150617/jing7.jpg)
-!(/public/img/posts/travel/20150617/jing8.jpg)  
-!(/public/img/posts/travel/20150617/jing9.jpg)  
-!(/public/img/posts/travel/20150617/jing10.jpg)    
+![](/public/img/posts/travel/20150617/jing6.jpg)  
+![](/public/img/posts/travel/20150617/jing7.jpg)
+![](/public/img/posts/travel/20150617/jing8.jpg)  
+![](/public/img/posts/travel/20150617/jing9.jpg)  
+![](/public/img/posts/travel/20150617/jing10.jpg)    
 
 继续走，觉得不错的地方就让司机停车，司机小哥人不错，和我同岁，车开的却比我溜多了  
 直接上图  
-!(/public/img/posts/travel/20150617/j1.jpg)  
-!(/public/img/posts/travel/20150617/j2.jpg)  
-!(/public/img/posts/travel/20150617/j3.jpg)  
-!(/public/img/posts/travel/20150617/j4.jpg)  
-!(/public/img/posts/travel/20150617/j5.jpg)  
-!(/public/img/posts/travel/20150617/j6.jpg)    
+![](/public/img/posts/travel/20150617/j1.jpg)  
+![](/public/img/posts/travel/20150617/j2.jpg)  
+![](/public/img/posts/travel/20150617/j3.jpg)  
+![](/public/img/posts/travel/20150617/j4.jpg)  
+![](/public/img/posts/travel/20150617/j5.jpg)  
+![](/public/img/posts/travel/20150617/j6.jpg)    
 一点多的时候在新都桥吃午饭，饭太硬，很难吃。八个人，一共160  
-!(/public/img/posts/travel/20150617/j7.jpg)  
+![](/public/img/posts/travel/20150617/j7.jpg)  
 折多山云海  
-!(/public/img/posts/travel/20150617/zheduoshan.jpg)  
-!(/public/img/posts/travel/20150617/zheduoshan2.jpg)  
-!(/public/img/posts/travel/20150617/zheduoshan3.jpg)  
-!(/public/img/posts/travel/20150617/zheduoshan4.jpg)  
-!(/public/img/posts/travel/20150617/zheduoshan5.jpg)  
-!(/public/img/posts/travel/20150617/zheduoshan6.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan2.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan3.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan4.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan5.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan6.jpg)  
 太美了，有想就死在这里不走了的感觉。  
 上折多山了，天气好糟糕。。  
-!(/public/img/posts/travel/20150617/zheduoshan7.jpg)  
+![](/public/img/posts/travel/20150617/zheduoshan7.jpg)  
 折多山垭口  
-!(/public/img/posts/travel/20150617/yakou.jpg) 
-!(/public/img/posts/travel/20150617/yakou2.jpg)   
+![](/public/img/posts/travel/20150617/yakou.jpg) 
+![](/public/img/posts/travel/20150617/yakou2.jpg)   
 沿路上去，走到头有个这个  
-!(/public/img/posts/travel/20150617/yakou3.jpg)  
+![](/public/img/posts/travel/20150617/yakou3.jpg)  
 天气真是太糟了，周围什么都看不到。。  
 下午快5点的样子，回到了康定县城。  
 
 -6.19 从康定坐车到稻城 宿稻城县（稻城妈妈青年旅社 45元/人 四人间）  
 提前一天在康定汽车站买了去稻城的车票  
-!(/public/img/posts/travel/20150617/chepiao2.jpg)  
+![](/public/img/posts/travel/20150617/chepiao2.jpg)  
 5点钟就起来了 和昨天的路线有些重复 沿着G318走 会过折多山  
-!(/public/img/posts/travel/20150617/lushang.jpg)  
-!(/public/img/posts/travel/20150617/lushang2.jpg)  
+![](/public/img/posts/travel/20150617/lushang.jpg)  
+![](/public/img/posts/travel/20150617/lushang2.jpg)  
 不过一想又要做一天的车真的是蛋痛啊 大拦车上的厕所坏了不给用 都不敢喝水唉  
 这不同学实在憋不住了 让司机给他停下车下去方便 然后大家看了他这个背影三分钟  
-!(/public/img/posts/travel/20150617/saniao.jpg)  
+![](/public/img/posts/travel/20150617/saniao.jpg)  
 大概10点半的时候会停在雅江吃个饭 条件很差 没胃口 没有吃 厕所很脏 1块钱  
 快两点的时候会到第一高城--理塘 海拔有4000多米 理塘汽车站都会有武警守卫的 武警的装备很全 护甲 护腿 还有拿个长棒 第一次看到这种配置感觉好牛逼啊  
 渐渐海拔越来越高 突破了4600米 带的零食大都被撑爆了 只剩两个依然坚挺着  
-!(/public/img/posts/travel/20150617/lingshi.jpg)  
-!(/public/img/posts/travel/20150617/lingshi2.jpg)  
+![](/public/img/posts/travel/20150617/lingshi.jpg)  
+![](/public/img/posts/travel/20150617/lingshi2.jpg)  
 下午5点钟左右到达稻城县城 一下车就会有很多来问去不去亚丁 拉你去住宿  
 我们住的稻城妈妈 不过住过后感觉是比较坑的 床位房一层厕所只有一个 这对于每天早上都要清理肠胃的我十分的不方便 一次次的确认厕所是不是有空位了 还有洗漱的地方 十分简陋 一个冷水管 一个热水管 是分开的 不能调水温  
-!(/public/img/posts/travel/20150617/daochengmama.jpg)  
+![](/public/img/posts/travel/20150617/daochengmama.jpg)  
 稻城海拔有3800米 下车后感觉头有些发胀 而且指甲也变紫了 一个可能是因为起的太早做了太久的车一路上风景太美都没舍得睡觉累的 再有可能真的是开始有点儿高原反应了
 
  
