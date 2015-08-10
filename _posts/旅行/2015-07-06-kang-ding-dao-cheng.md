@@ -24,82 +24,82 @@ description:
 
 -6.17  重庆-康定 汽车 宿康定（康定贡嘎国际青年旅社 帐篷 25元/人）  
 提前一天到陈家坪汽车站买了从重庆到康定的汽车票，250块。。好贵啊。  
-![车票](/public/img/posts/travel/20150617/chepiao.jpg)  
+![车票](http://7xkxii.com1.z0.glb.clouddn.com/chepiao.jpg?imageMogr2/thumbnail/!25p)  
 然后接下来的一整天就在车上度过，早上8:40开的车，晚上快9点的样子才到康定。  
 我们做的车
-![我们做的车](/public/img/posts/travel/20150617/che.jpg)  
+![我们做的车](http://7xkxii.com1.z0.glb.clouddn.com/che.jpg?imageMogr2/thumbnail/!25p)  
 还是有他贵的理由的，是来来回回坐的最好的一辆车了，车里有个小厕所可以用，一路上可以肆无忌惮的喝水了。
 快到11点的时候会停下来让我们吃午饭，要了碗牛肉面，15块。
-![渔箭](/public/img/posts/travel/20150617/yujian.jpg)
-![面](/public/img/posts/travel/20150617/mian.jpg)
+![渔箭](http://7xkxii.com1.z0.glb.clouddn.com/yujian.jpg?imageMogr2/thumbnail/!25p)
+![面](http://7xkxii.com1.z0.glb.clouddn.com/mian.jpg?imageMogr2/thumbnail/!25p)
 途中会经过雅安，会在雅安汽车站停一下，但只是上下乘客，不做休息。  
 看县城感觉雅安并不像是地震过得，看起来有些年份的建筑依然挺立着。
-![雅安1](/public/img/posts/travel/20150617/yaan1.jpg)  
-![雅安2](/public/img/posts/travel/20150617/yaan2.jpg)  
+![雅安1](http://7xkxii.com1.z0.glb.clouddn.com/yaan1.jpg?imageMogr2/thumbnail/!25p)  
+![雅安2](http://7xkxii.com1.z0.glb.clouddn.com/yaan2.jpg?imageMogr2/thumbnail/!25p)  
 一路上感觉道路都好险峻啊，不过对于天天在这里开车的司机来说应该不算什么吧。
-![路](/public/img/posts/travel/20150617/lu.jpg)  
+![路](http://7xkxii.com1.z0.glb.clouddn.com/lu.jpg?imageMogr2/thumbnail/!25p)  
 8点的时候会在日地村停车吃个晚饭，没有吃，决定到了康定在好好吃一顿。  
-![日地](/public/img/posts/travel/20150617/ridi.jpg)  
-![日地](/public/img/posts/travel/20150617/ridi2.jpg)  
-![日地](/public/img/posts/travel/20150617/ridi3.jpg)  
+![日地](http://7xkxii.com1.z0.glb.clouddn.com/ridi.jpg?imageMogr2/thumbnail/!25p)  
+![日地](http://7xkxii.com1.z0.glb.clouddn.com/ridi2.jpg?imageMogr2/thumbnail/!25p)  
+![日地](http://7xkxii.com1.z0.glb.clouddn.com/ridi3.jpg?imageMogr2/thumbnail/!25p)  
 
 大概快9点的样子到康定了，看别人的攻略去的康定贡嘎国际青年旅社，离汽车站很近，之前有打电话过去，但是到了之后就只剩帐篷住了。。人生第一次住帐篷  
 
  
-![帐篷](/public/img/posts/travel/20150617/zhangpeng.jpg)  
-![帐篷](/public/img/posts/travel/20150617/zhangpeng2.jpg)  
-![青旅](/public/img/posts/travel/20150617/qinglv.jpg)  
-![青旅](/public/img/posts/travel/20150617/qinglv2.jpg)  
-![青旅](/public/img/posts/travel/20150617/qinglv3.jpg)  
-![青旅](/public/img/posts/travel/20150617/qinglv4.jpg)  
+![帐篷](http://7xkxii.com1.z0.glb.clouddn.com/zhangpeng.jpg)  
+![帐篷](http://7xkxii.com1.z0.glb.clouddn.com/zhangpeng2.jpg)  
+![青旅](http://7xkxii.com1.z0.glb.clouddn.com/qinglv.jpg)  
+![青旅](http://7xkxii.com1.z0.glb.clouddn.com/qinglv2.jpg)  
+![青旅](http://7xkxii.com1.z0.glb.clouddn.com/qinglv3.jpg)  
+![青旅](http://7xkxii.com1.z0.glb.clouddn.com/qinglv4.jpg)  
 青旅里会有司机主动来问你第二天要不要包车玩，旅社里提供了游玩线路  
-![线路](/public/img/posts/travel/20150617/xianlu.jpg)  
+![线路](http://7xkxii.com1.z0.glb.clouddn.com/xianlu.jpg)  
 我们选择了2号线路 红海-江巴草原-塔公草原-新都桥-折多山 120每人，来回。不过后来发现好像并没有看到红海这个地方。  
 
 出去吃了个晚饭，水煮牦牛肉，感觉还不错。  
-![晚饭](/public/img/posts/travel/20150617/wanfan.jpg)  
+![晚饭](http://7xkxii.com1.z0.glb.clouddn.com/wanfan.jpg)  
 说好了一天餐费要严格控制在每人50以内，但晚饭一下就花掉80多块。。  
 晚上回来睡帐篷，刚躺下时还是有些小冷的。  
 
 -6.18  康定周边包车玩 宿康定（康定贡嘎国际青年旅社 还是睡帐篷）  
 7点起床去吃了个早饭  
-![早饭]（/public/img/posts/travel/20150617/mian2.jpg)  
+![早饭]（http://7xkxii.com1.z0.glb.clouddn.com/mian2.jpg)  
 量足，感觉味道还不错，10块钱。  
 回来司机已经在等我们准备出发了。同行的有6个人，3男3女，后来司机又拉了他一个朋友上来。  
 第一站停在了一个叫雅拉神山的地方，感觉并没有什么好玩的。  
-![雅拉神山](/public/img/posts/travel/20150617/yalashenshan.jpg)  
-![雅拉神山](/public/img/posts/travel/20150617/yalashenshan2.jpg)  
+![雅拉神山](http://7xkxii.com1.z0.glb.clouddn.com/yalashenshan.jpg)  
+![雅拉神山](http://7xkxii.com1.z0.glb.clouddn.com/yalashenshan2.jpg)  
 另外在这里上了个厕所，出来被要了一块钱，后来发现在高原上人家的厕所都是要收钱的。。  
 上车继续走着，发现不错的地方就喊司机停车  
 天气不是很好啊，雾气弥漫的  
-![](/public/img/posts/travel/20150617/jing1.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing1.jpg)  
 这里海拔已经过了4000米，但也并没有什么感觉，还开心的跳起拍照  
-![](/public/img/posts/travel/20150617/haiba.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/haiba.jpg)  
 过了一会儿云雾飘散开，渐渐能看到些远处的景色了，好美。  
-![](/public/img/posts/travel/20150617/jing2.jpg)  
-![](/public/img/posts/travel/20150617/jing3.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing2.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing3.jpg)  
 不过还是赶紧拍照啊，一会儿云飘过来又遮住了。  
 继续往前  
 草原上的牦牛，在这里很常见  
-![](/public/img/posts/travel/20150617/maoniu.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/maoniu.jpg)  
 江巴草原  
-![](/public/img/posts/travel/20150617/jing4.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing4.jpg)  
 竟然偷拍人家妹子，好吧背影感觉还不错  
-![](/public/img/posts/travel/20150617/meizi.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/meizi.jpg)  
 一看到牦牛我就被吸引过去了  
-![](/public/img/posts/travel/20150617/niu.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/niu.jpg)  
 可是竟然不鸟我，看到我就跑，牦牛都这么胆小的吗。。  
 青稞酒  
-![](/public/img/posts/travel/20150617/qingkejiu.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/qingkejiu.jpg)  
 塔公草原  
-![](/public/img/posts/travel/20150617/tagongcaoyuan.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/tagongcaoyuan.jpg)  
 后面的那是个什么寺来着？名字忘了  
-![](/public/img/posts/travel/20150617/simiao.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/simiao.jpg)  
  
-![](/public/img/posts/travel/20150617/jing6.jpg)  
-![](/public/img/posts/travel/20150617/jing7.jpg)
-![](/public/img/posts/travel/20150617/jing8.jpg)  
-![](/public/img/posts/travel/20150617/jing9.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing6.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing7.jpg)
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing8.jpg)  
+![](http://7xkxii.com1.z0.glb.clouddn.com/jing9.jpg)  
 ![](/public/img/posts/travel/20150617/jing10.jpg)    
 
 继续走，觉得不错的地方就让司机停车，司机小哥人不错，和我同岁，车开的却比我溜多了  
