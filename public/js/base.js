@@ -1,5 +1,5 @@
 /* 控制导航按钮动作 */
-function nav_click(is_show) {
+function nav_click(!is_show) {
   if (is_show) {
     /* 显示左侧aside */
     $('.aside')

@@ -31,16 +31,16 @@ gavatar: /public/img/d.png
 favicon: /public/img/d.png
 
 # google analytics 设置
-ga:
-  id: UA-54262064-1 
-  url: painterlin.com
+#ga:
+ # id: UA-54262064-1 
+#  url: painterlin.com
 
 # 多说 设置
 duoshuo:
   shortname: champy
 
 # 主题设置，自动激活某个标签
-active: 读书
+active: 歌词
 
 # 首页除了最新文章外显示分类
 cates: 
