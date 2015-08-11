@@ -82,6 +82,7 @@ body, html {
   overflow-y: auto;
   background-color: #fff;
   overflow-x: hidden;
+  width: 100%
 
   /*background-image: url(/public/img/bg_lines1.jpg);*/
 }
