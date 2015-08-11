@@ -40,7 +40,7 @@ duoshuo:
   shortname: champy
 
 # 主题设置，自动激活某个标签
-active: 歌词
+#active: 歌词
 
 # 首页除了最新文章外显示分类
 cates: 
