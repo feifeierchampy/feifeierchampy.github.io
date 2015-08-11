@@ -40,13 +40,24 @@ function content_click(is_show){
 }
 
 $(document).ready(function() {
-	
+	    /* 隐藏左侧aside */
+    $('.aside')
+      .removeClass('visible-md visible-lg')
+      .addClass('hidden-md hidden-lg');
+    /* 右侧内容最大化 */
+    $('.aside3')
+      .removeClass('col-md-13 col-lg-13')
+      .addClass('col-md-13 col-lg-13');
+    /* 修改文字排版 */
+    $('.aside3-content')
+      .removeClass('col-md-13')
+      .addClass('col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2'); 
 
   /* 控制左侧 aside 的动作 */
   $("#nav_btn").on('click', function() {
     isClicked = $(this).data('clicked');
 
-    nav_click(!isClicked);
+    nav_click(isClicked);
 
     $(this).data('clicked', !isClicked);
   });
