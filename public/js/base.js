@@ -1,5 +1,5 @@
 /* 控制导航按钮动作 */
-function nav_click(!is_show) {
+function nav_click(is_show) {
   if (is_show) {
     /* 显示左侧aside */
     $('.aside')
@@ -40,6 +40,11 @@ function content_click(is_show){
 }
 
 $(document).ready(function() {
+	
+	$('.aside').hide();
+	    $('.aside3')
+      .removeClass('col-md-13 col-lg-13')
+      .addClass('col-md-13 col-lg-13');
   /* 控制左侧 aside 的动作 */
   $("#nav_btn").on('click', function() {
     isClicked = $(this).data('clicked');
