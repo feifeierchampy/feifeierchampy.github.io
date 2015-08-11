@@ -45,7 +45,7 @@ $(document).ready(function() {
   $("#nav_btn").on('click', function() {
     isClicked = $(this).data('clicked');
 
-    nav_click(isClicked);
+    nav_click(!isClicked);
 
     $(this).data('clicked', !isClicked);
   });
