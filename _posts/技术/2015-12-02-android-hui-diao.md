@@ -66,7 +66,7 @@ public class Activity{
 
 ```
 通过这种机制就能很好的解决上述问题，实际实现时，由于回调方法只能监听一个类，而实际情况是每次扫描时就会new一个ScanTask()出来，当时我想的是定义一个静态类型的ScanTask，就可以对其“监听"了；想法是这样，不过那边已经通过两个回调将三个类给联系起来了，我的话可能根本就不会想到还可以这样实现，还是知识不够。看不到那点，  
-首先定义了两个接口：
+首先定义了两个接口：  
 ``` java
 public interface UsbStateChangeListener{
 	public void onUsbStateChange();
@@ -74,9 +74,9 @@ public interface UsbStateChangeListener{
 
 public interface ScanDoneListener{
 	public void onScanDone();
-}
-```
-然后在UsbBroadcastReceiver类中：
+}  
+```  
+然后在UsbBroadcastReceiver类中：  
 ``` java
 public class UsbBroadcastReceiver extends BroadcastReceiver{
 	...
@@ -88,9 +88,9 @@ public class UsbBroadcastReceiver extends BroadcastReceiver{
 	//USB设备状态改变时
 	mStateChangedListener.onUsbStateChanged();
 	...
-}
-```
-在ScanTask类中
+}  
+```  
+在ScanTask类中  
 ``` java
 public class ScanTask{
 	...
@@ -103,7 +103,7 @@ public class ScanTask{
 	mScanDoneListener.onScanDone();
 	
 	...
-}
+}  
 ```
 
 
