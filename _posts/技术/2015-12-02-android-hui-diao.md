@@ -9,7 +9,7 @@ description:
 
 #Android-回调机制
 在练手项目中遇到这样的需求：当USB拔出后需要重新扫描数据，更新数据库，在数据库更新完成后，需要通知前台activity重新查询数据库进行显示  
-- 首先想到想到的是 发送一个自定义的广播通知activity  
+ - 首先想到想到的是 发送一个自定义的广播通知activity  
 实现的时候发现 通过动态注册Broadcast时，如：  
 
 ``` java  
@@ -116,7 +116,23 @@ public class ScanTask{
 }  
 ```
 
+而在LocalDataSearchActivity类中，对UsbBroadcastReceiver设置监听  
 
+``` java
+mUsbBroadcastReceiver.setOnUsbStateChanged(new UsbStateChangedListener(){
+	@Override
+	public void onUsbStateChange(){
+		mUsbBroadcastReceiver.getScanTask().setOnScanDoneListener(new ScanDoneListener(){
+			@Override
+			public void onScanDone(){
+				//do something, update data
+			}
+		});
+	}
+});
+```
+
+有点绕...
 
 
 
