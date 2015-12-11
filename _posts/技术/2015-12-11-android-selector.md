@@ -51,10 +51,10 @@ drawable下的listview_change.xml文件
 ```
 
 **效果**  
-默认状态
+默认状态  
 ![](http://7xkxii.com1.z0.glb.clouddn.com/20151209list_default.jpg?imageMogr2/thumbnail/!50p)
 
-获得焦点时的
+获得焦点时的  
 ![](http://7xkxii.com1.z0.glb.clouddn.com/20151209list_fouc.jpg?imageMogr2/thumbnail/!50p)
 
 
@@ -66,12 +66,12 @@ drawable下的listview_change.xml文件
 
 
 
-`<shape>`有这些个子标签：
+`<shape>`有这些个子标签：  
 - `<solid>` 填充 设置填充的颜色  
-- `<corners>` 圆角 设置圆角半径  
+- `<corners>` 圆角 设置圆角半径   
 - `<stroke>` 描边 设置边框宽度 颜色  
 - `<size>`大小  
-- `<padding>`间隔
+- `<padding>`间隔  
 - `<gradient>`渐变
 
 
