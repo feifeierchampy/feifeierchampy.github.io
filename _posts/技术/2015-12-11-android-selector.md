@@ -2,7 +2,7 @@
 layout: post
 title: Android-Selector背景选择器
 category: 技术
-tags: android
+tags: Android
 keywords: 
 description: 
 ---  
