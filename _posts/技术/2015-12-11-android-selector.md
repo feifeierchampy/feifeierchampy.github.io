@@ -67,11 +67,17 @@ drawable下的listview_change.xml文件
 
 
 `<shape>`有这些个子标签：  
+
 - `<solid>` 填充 设置填充的颜色  
-- `<corners>` 圆角 设置圆角半径   
+
+- `<corners>` 圆角 设置圆角半径  
+
 - `<stroke>` 描边 设置边框宽度 颜色  
+
 - `<size>`大小  
+
 - `<padding>`间隔  
+
 - `<gradient>`渐变
 
 
