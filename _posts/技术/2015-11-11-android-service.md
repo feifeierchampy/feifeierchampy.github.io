@@ -131,6 +131,7 @@ public class BindService extends Service
 
 `Context`的 `bindService()`方法的完整方法签名为：
 `bindService(Intent service, ServiceConnection conn, int flags)`三个参数代表了：  
+
 - **service** :该参数通过Intent指定要启动的Service。
 
 - **conn** :该参数是一个ServiceConnection对象，该对象用于监听访问者与Service之间的连接情况。当连接成功时调用该`ServiceConnection`对象的`onServiceConnected(ComponentName name, IBinder service)`方法，该IBinder对象即可实现与被绑定Service之间的通信；当Service所在的宿主进程由于异常中止或其他原因终止导致该Service与访问者之间断开连接时回调该`ServiceConnection`对象的`onServiceDisconnectd(ComponentName name)`方法。
