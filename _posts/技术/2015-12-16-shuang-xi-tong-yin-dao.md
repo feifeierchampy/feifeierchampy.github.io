@@ -6,7 +6,6 @@ tags: 双系统
 keywords: 
 description: 
 ---  
-### 重装windows后 与ubuntu双系统引导修复  
 **这里主要记录下整个过程**  
 之前一直是win8.1 ubuntu14.04双系统 用grub来引导两个系统 后来用U盘升级了win10后，当时记得重启后两个系统都不能进了 后来用了一个叫NTBOOTautofix的软件自动修复好了 能进入win10了 但是开机却非常慢  
 
@@ -16,16 +15,16 @@ description:
 
 后来偶然间用新发现的一个搜索引擎[脚本百事通][1] 搜到了这么一个[帖子][2]  
 按照这样的步骤：  
-1. 做了个ubuntu启动U盘  
-2. 选择试用系统进入ubuntu，ctrl+alt+t 打开终端，输入 `sudo fdisl -l` 在给出的系统盘符信息中找到Linux所在的盘符，如我的是 `/dev/sda10`
-3. 再输入`sudo -i`获取root权限  
-4. `mount /dev/sda10 /mnt` 注意这里`/mnt`前要有空格  
-5. 输入 `grub-install --root-directory=/mnt /dev/sda`
+- 做了个ubuntu启动U盘  
+- 选择试用系统进入ubuntu，ctrl+alt+t 打开终端，输入 `sudo fdisl -l` 在给出的系统盘符信息中找到Linux所在的盘符，如我的是 `/dev/sda10`
+- 再输入`sudo -i`获取root权限  
+- `mount /dev/sda10 /mnt` 注意这里`/mnt`前要有空格  
+-  输入 `grub-install --root-directory=/mnt /dev/sda`
 到现在按照他的说法是Grub基本修复完毕  
-6. 重启后输入`sudo update-grub2`  
+- 重启后输入`sudo update-grub2`  
 
 到这里本以为搞定了 没想到进入windows时提示需要修复 感觉可能是因为之前用easybcd又搞了个由windows来引导的 进不了 又试了各种方法：
-- 修改grub.cfg文件 ·······failed  
+-修改grub.cfg文件 ·······failed  
 
 最后试了windows高级选项里的每一个，通过系统还原将系统还原到了之前的一个版本，它本来提示还原遇到错误，但重启后还是成功进入了，但依旧很慢。  
 
