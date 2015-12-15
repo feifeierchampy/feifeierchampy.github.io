@@ -14,17 +14,19 @@ description:
 首先用easybcd软件来添加linux的引导项 结果开机时出现多个系统的选择界面了 进去却提示找不到 这样又过了几天  
 
 后来偶然间用新发现的一个搜索引擎[脚本百事通][1] 搜到了这么一个[帖子][2]  
-按照这样的步骤：  
+按照这样的步骤：
 - 做了个ubuntu启动U盘  
 - 选择试用系统进入ubuntu，ctrl+alt+t 打开终端，输入 `sudo fdisl -l` 在给出的系统盘符信息中找到Linux所在的盘符，如我的是 `/dev/sda10`
-- 再输入`sudo -i`获取root权限  
-- `mount /dev/sda10 /mnt` 注意这里`/mnt`前要有空格  
--  输入 `grub-install --root-directory=/mnt /dev/sda`
-到现在按照他的说法是Grub基本修复完毕  
+- 再输入`sudo -i`获取root权限
+- `mount /dev/sda10 /mnt` 注意这里`/mnt`前要有空格
+- 输入 `grub-install --root-directory=/mnt /dev/sda`
+
+到现在按照他的说法是Grub基本修复完毕
+
 - 重启后输入`sudo update-grub2`  
 
 到这里本以为搞定了 没想到进入windows时提示需要修复 感觉可能是因为之前用easybcd又搞了个由windows来引导的 进不了 又试了各种方法：
--修改grub.cfg文件 ·······failed  
+- 修改grub.cfg文件 ·······failed  
 
 最后试了windows高级选项里的每一个，通过系统还原将系统还原到了之前的一个版本，它本来提示还原遇到错误，但重启后还是成功进入了，但依旧很慢。  
 
