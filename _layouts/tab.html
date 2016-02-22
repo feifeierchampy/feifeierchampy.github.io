@@ -1,0 +1,14 @@
+<!-- tab标签 根据category的种类决定tab数量-->
+<ul class="nav nav-tabs" role="tablist">
+    <li class="active">
+        <a href="#all" role="tab" data-toggle="tab">全部</a>
+    </li>
+    {% for category in site.categories %}
+    <li>
+        <a href="#{{ category | first }}" role="tab" data-toggle="tab">{{category[0]}}</a>
+    </li>
+    {% endfor %}
+</ul>
+
+<!--每个tab标签显示的文章 end -->
+<!-- tab标签 根据category的种类决定tab数量-->

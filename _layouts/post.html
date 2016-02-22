@@ -1,0 +1,53 @@
+---
+layout: base
+---
+<div class="container">
+	{% include tab.html %}
+
+	<div class="tab-content" style="display:none" id="my_div_tab">
+        <div class="tab-pane active" id="all">
+            <div class="list-group">
+                <!-- 显示所有文章信息-begin -->
+                {% for post in site.posts %}
+                <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item">
+                    <h4 class="list-group-item-heading">{{post.title}}</h4>
+                    <p class="list-group-item-text">{{ post.date | date:"%Y年%m月%d日" }}</p>
+                </a>
+                {% endfor %}
+                <!-- 显示所有文章信息-end --> </div>
+        </div>
+        {% for category in site.categories %}
+        <div class="tab-pane" id="{{ category[0]}}">
+            <div class="list-group">
+                {% for post in category[1] %}
+                <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item">
+                    <h4 class="list-group-item-heading">{{post.title}}</h4>
+                    <p class="list-group-item-text">{{ post.date | date:"%Y年%m月%d日" }}</p>
+                </a>
+                {% endfor %}
+            </div>
+
+        </div>
+        {% endfor %}
+    </div>
+	<div class="mycontent" id="my_content">{{content}}</div>
+
+</div>
+
+    <style type="text/css">
+            .mycontent{
+                padding-top: 10px;
+            }
+    </style>
+
+
+
+    <script type="text/javascript">
+    function show_post_list(){
+    	var v = document.getElementById("my_div_tab");
+    	v.style.display = "block";
+    	var v2 = document.getElementById("my_content");
+    	v2.style.display = "none";
+    }</script> 
+    
+  <p></p>
