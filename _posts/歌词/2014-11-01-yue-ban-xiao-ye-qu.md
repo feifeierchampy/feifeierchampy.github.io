@@ -6,9 +6,9 @@ tags: 歌词
 keywords:
 description:
 ---
-<embed src="http://www.xiami.com/widget/0_1773392844/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+<embed src="http://www.xiami.com/widget/0_1773392844/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"/>
 
-###陈乐基-月半小夜曲
+### 陈乐基-月半小夜曲
 
 仍然倚在失眠夜 望天边星宿  
 仍然听见小提琴 如泣似诉在挑逗  
