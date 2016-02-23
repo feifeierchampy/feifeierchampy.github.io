@@ -6,13 +6,13 @@ tags: Android
 keywords: 
 description: 
 ---  
-##Handler类
+## Handler类
 - 主要作用
  + 在新启动线程中发送消息
  + 在主线程中获取、处理消息
 
 
-###与Handler一起工作的几个组件
+### 与Handler一起工作的几个组件
 
 - **Message**: Handler接收和处理的消息对象
 
@@ -21,6 +21,7 @@ description:
 -  **MessageQueue**: 消息队列，采用先进先出的方式来管理Message。程序初始化Looper对象时会创建一个与之关联的MessageQueue。
 
 Looper的构造器源码：
+
 
 ```java
 private Looper(){
@@ -37,7 +38,7 @@ private Looper(){
 - 自己启动的子线程中，必须自己创建一个Looper对象，并启动它。创建Looper对象调用它的prepare()方法即可。然后通过Looper的静态loop()方法来启动它。
 
 
-###在自定义线程中使用Hanlder
+### 在自定义线程中使用Hanlder
 
 - 调用Looper的prepare()方法为当前线程创建Looper对象，创建Looper对象时，它的构造器会创建与之配套的MessageQueue 
 

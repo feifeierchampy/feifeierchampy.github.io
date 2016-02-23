@@ -6,8 +6,9 @@ tags: 歌词
 keywords:
 description:
 ---
-<embed src="http://www.xiami.com/widget/0_1770201852/multiPlayer.swf" type="application/x-shockwave-flash" width="400" height="175" wmode="transparent"></embed>
-###逃跑计划-夜空中最亮的星
+<embed src="http://www.xiami.com/widget/0_1770201852/multiPlayer.swf" type="application/x-shockwave-flash" width="400" height="175" wmode="transparent"/>
+
+## 逃跑计划-夜空中最亮的星
 
 夜空中最亮的星 能否听清  
 那仰望的人 心底的孤独和叹息  

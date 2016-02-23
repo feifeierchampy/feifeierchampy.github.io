@@ -6,8 +6,9 @@ tags: 歌词
 keywords:
 description:
 ---
-<embed src="http://www.xiami.com/widget/0_1773431302/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
-###刘明湘-漂洋过海来看你
+<embed src="http://www.xiami.com/widget/0_1773431302/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"/>
+
+## 刘明湘-漂洋过海来看你
 
 为你我用了半年的积蓄  
 漂洋过海来看你  

@@ -6,8 +6,8 @@ tags: Android
 keywords: 
 description: 
 ---
+## Android Service
 
-#Android Service
 Service与Activity相似，它们都是从 `Context` 派生出来的，因此它们都可以调用 `Context` 里定义的 `getResources()` 、`getContentResolver()` 等方法。
 Activity与Service的选择标准是：如果某个程序组件需要在运行时向用户呈现某种界面，或者该程序需要与用户交互，就需要使用Activity，否则就应该考虑使用Service了。
 
@@ -113,7 +113,8 @@ public class BindService extends Service
 }
 
 ```
-##配置Service
+
+## 配置Service
 
 ``` xml
 <service android:name=".BindService">
@@ -122,10 +123,11 @@ public class BindService extends Service
     </intent-filter>
 </service>
 ```
+
 需放在 `<application> </application>` 内
 第一个name代表该service的位置，包括完成的包名和service名，如果报名就是你定义的程序包名，也就是和gen目录下那个包的名字一样的话，直接“.service名”就可以了。第二个name是你调用service时 `intent.setAction();` 中的参数，这个可随便定义。
 
-##启动和停止Service
+## 启动和停止Service
 - 通过 `Context` 的 `startService()` 方法：通过该方法启动Service，访问者与Service之间没有关联， 即使访问者退出了，Service仍然运行。 停止时调用 `stopService()` 方法。该方法Service与访问者不存在太多的关联，因此Service和访问者之间也无法进行通信、数据交换。
 - 通过 `Context` 的 `bindService()` 方法：使用该方法启用Service，访问者与Service绑定在了一起，访问者一旦退出，Service也就终止。停止时调用 `unbindService()` 方法。
 
