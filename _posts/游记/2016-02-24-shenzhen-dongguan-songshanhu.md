@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 20150102深圳-东莞松山湖
-category: 歌词
-tags: 歌词
+category: 游记
+tags: 游记
 keywords:
 description:
 ---
