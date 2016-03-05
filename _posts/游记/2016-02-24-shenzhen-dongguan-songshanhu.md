@@ -26,71 +26,68 @@ description:
 看来主要还是担心单车怎么弄回来的问题啊
 
 出发  
-![][1]
+
+<img class="my_img" src="{{site.img_path}}/201601021.jpg-1366768">
 
 路上  
-![][2]
+
+<img class="my_img" src="{{site.img_path}}/201601022.jpg-1366768">
 
 在市区里骑车真是太拥挤了 骑不快 一会儿就红灯停
 而且深圳的自行车道大部分都在台阶上面 和人挤在一起 根本骑不快 感觉是给老年人设计的 我一般都靠路边边骑
 
 终于出了闹市区了
 在一个桥上  
-![][3]
+
+<img class="my_img" src="{{site.img_path}}/201601023.jpg-1366768">
 
 继续沿这广深公路走 一路上车还挺多的
 这市与市之间的交界一点没有荒凉感 都挺热闹的
 和我家那边不太一样 出了市区就是一片片的耕地
 
 进东莞了  
-![][5]
 
-![][6]
+<img class="my_img" src="{{site.img_path}}/201601025.jpg-1366768">
 
-![][7]
+<img class="my_img" src="{{site.img_path}}/201601026.jpg-1366768">
+
+<img class="my_img" src="{{site.img_path}}/201601027.jpg-1366768">
 
 国道107 哈哈太熟悉这个名字了 G107也过我们县城呐
 我一直沿着路骑不就到家了吗 不过得骑2000多公里 哈哈哈
 
 到松山湖了 这么多车 还是被吓到了  
-![][8]
 
-![][9]
+<img class="my_img" src="{{site.img_path}}/201601028.jpg-1366768">
+
+<img class="my_img" src="{{site.img_path}}/201601029.jpg-1366768">
 
 松山湖还是挺大的 据说绕湖一圈得有18公里
 里面还多骑车的啊 好挤
 看大家都还玩的挺开心的  
-![][10]
 
-![][11]
+<img class="my_img" src="{{site.img_path}}/2016010210.jpg-1366768">
+
+<img class="my_img" src="{{site.img_path}}/2016010211.jpg-1366768">
 
 拍的照有点少了 
 景色一般 
 确实也没啥拍照的欲望 
 2点了
 休息休息吃个午饭 准备返程  
-![][13]
+
+<img class="my_img" src="{{site.img_path}}/2016010213.jpg-1366768">
 
 12块 好便宜啊
 是不是从深圳出来觉得那里的饭都便宜...
 
 顺利返程  
-![][14]
+
+<img class="my_img" src="http://7xkxii.com1.z0.glb.clouddn.com/2016010210.jpg-1366768">
 
 
 
 
 
 
-[1]:{ site.img_path }/201601021.jpg?imageMogr2/thumbnail/!30p
-[2]:{ site.img_path }/201601022.jpg?imageMogr2/thumbnail/!30p
-[3]:http://7xkxii.com1.z0.glb.clouddn.com/201601023.jpg?imageMogr2/thumbnail/!30p
-[5]:http://7xkxii.com1.z0.glb.clouddn.com/201601025.jpg?imageMogr2/thumbnail/!30p
-[6]:http://7xkxii.com1.z0.glb.clouddn.com/201601026.jpg?imageMogr2/thumbnail/!30p
-[7]:http://7xkxii.com1.z0.glb.clouddn.com/201601027.jpg?imageMogr2/thumbnail/!30p
-[8]:http://7xkxii.com1.z0.glb.clouddn.com/201601028.jpg?imageMogr2/thumbnail/!30p
-[9]:http://7xkxii.com1.z0.glb.clouddn.com/201601029.jpg?imageMogr2/thumbnail/!30p
-[10]:http://7xkxii.com1.z0.glb.clouddn.com/2016010210.jpg?imageMogr2/thumbnail/!30p
-[11]:http://7xkxii.com1.z0.glb.clouddn.com/2016010211.jpg?imageMogr2/thumbnail/!30p
-[13]:http://7xkxii.com1.z0.glb.clouddn.com/2016010213.jpg?imageMogr2/thumbnail/!30p
-[14]:http://7xkxii.com1.z0.glb.clouddn.com/2016010214.png?imageMogr2/thumbnail/!30p
+

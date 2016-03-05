@@ -2,9 +2,8 @@
 layout: base
 ---
 <div class="container">
-	{% include tab.html %}
-
-	<div class="tab-content" style="display:none" id="my_div_tab">
+    {% include tab.html %}
+    <div class="tab-content" style="display:none" id="my_div_tab">
         <div class="tab-pane active" id="all">
             <div class="list-group">
                 <!-- 显示所有文章信息-begin -->
@@ -30,25 +29,27 @@ layout: base
         </div>
         {% endfor %}
     </div>
-	<div class="mycontent container" id="my_content">{{content}}</div>
+    <div class="mycontent container" id="my_content">{{content}}</div>
 
 </div>
 
-    <style type="text/css">
+<style type="text/css">
             .mycontent{
                 padding-top: 10px;
-				font-size: 18px;
+                font-size: 18px;
             }
+            .my_img{
+                max-width: 100%;
+                display: inline-block;           
+}
     </style>
 
-
-
-    <script type="text/javascript">
+<script type="text/javascript">
     function show_post_list(){
-    	var v = document.getElementById("my_div_tab");
-    	v.style.display = "block";
-    	var v2 = document.getElementById("my_content");
-    	v2.style.display = "none";
-    }</script> 
-    
-  <p></p>
+        var v = document.getElementById("my_div_tab");
+        v.style.display = "block";
+        var v2 = document.getElementById("my_content");
+        v2.style.display = "none";
+    }</script>
+
+<p></p>
