@@ -6,8 +6,7 @@ tags: Android
 keywords: 
 description: 
 --- 
- 
-## Android-Selector背景选择器  
+  
 - ListView  实现了焦点item的背景变化，边框
 
 ``` xml

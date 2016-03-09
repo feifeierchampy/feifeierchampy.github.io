@@ -6,7 +6,7 @@ tags: Android
 keywords: 
 description: 
 ---
-## Android Service
+### Android Service
 
 Service与Activity相似，它们都是从 `Context` 派生出来的，因此它们都可以调用 `Context` 里定义的 `getResources()` 、`getContentResolver()` 等方法。
 Activity与Service的选择标准是：如果某个程序组件需要在运行时向用户呈现某种界面，或者该程序需要与用户交互，就需要使用Activity，否则就应该考虑使用Service了。

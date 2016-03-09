@@ -11,10 +11,10 @@ github会自动的根据你项目里的CNAME文件来解析
 ### Github Pages
 github pages(`username.github.io`)只能创建一个，比如我这个  
 ####（未绑定之前可通过`http://feifeierchampy.github.io`访问）  
-####`feifeierchampy.github.io`  想把`love.feifeier.com`绑定到上面  
-####解析的时候就在DNS解析里添加一个CNAME类型的  
+#### `feifeierchampy.github.io`  想把`love.feifeier.com`绑定到上面  
+#### 解析的时候就在DNS解析里添加一个CNAME类型的  
 ![](/public/img/yuming.png)  
-####而在Github这边 就在`feifeierchampy.github.io`的`master`目录下添加一个`CNAME`文件（内容为love.feifeier.com）  
+#### 而在Github这边 就在`feifeierchampy.github.io`的`master`目录下添加一个`CNAME`文件（内容为love.feifeier.com）  
 
 ### Project Pages
 如果是Project Pages（项目名为`MyFirstLover`）     

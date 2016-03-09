@@ -14,9 +14,11 @@ description:
 
 
 更改博客的安装地址和博客地址  
-> `UPDATE wp_options`   
-`SET option_value = replace( option_value,'http://老域名', 'http://新域名')`  
-`WHERE option_name = 'home' OR option_name ='siteurl';`
+```
+UPDATE wp_options   
+SET option_value = replace( option_value,'http://老域名', 'http://新域名')
+WHERE option_name = 'home' OR option_name ='siteurl';
+```
 
 ![](/public/img/wp-1.png)
 
@@ -24,7 +26,8 @@ description:
 
 只执行这条语句后发现一些图片什么的不能正常显示  
 还需要修改文章内部所有的链接为新域名  
-> `UPDATE wp_posts SET post_content = replace(post_content,'http://老域名','http://新域名');`
+`UPDATE wp_posts SET post_content = replace(post_content,'http://老域名','http://新域名');`
+
 `UPDATE wp_posts SET guid = replace( guid,'http://老域名','http://新域名');`
 
 
