@@ -6,7 +6,7 @@ tags:
 keywords:
 description:
 ---
-## Time goes by, Unexpected
+
 A long time passed, not having some words on this platform.
 
 After having the 10M bps network, I became very lazy. It seems that I cherished the limited situation better than the comfortable one. When the speed of the network was just 10K, I urge on surfing the internet, where the speed is faster, I will go there without any hesitation. So it’s the common scene that I stayed at the canteen of the company very late even after the light’s off.

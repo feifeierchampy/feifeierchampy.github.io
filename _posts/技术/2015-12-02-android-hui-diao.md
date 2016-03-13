@@ -9,10 +9,10 @@ description:
 
 
 在练手项目中遇到这样的需求：当USB拔出后需要重新扫描数据，更新数据库，在数据库更新完成后，需要通知前台activity重新查询数据库进行显示  
- - 首先想到想到的是 发送一个自定义的广播通知activity  
+- 首先想到想到的是 发送一个自定义的广播通知activity  
 实现的时候发现 通过动态注册Broadcast时，如：  
 
-``` java  
+```java
 IntentFilter filter = new IntentFilter("SCAN_USB_SUCC");  
 UsbSuccReceiver receiver = new UsbSuccReceiver();  
 registerReceiver(receiver, filter);  
@@ -21,7 +21,8 @@ registerReceiver(receiver, filter);
 注册的同时要指定处理该broadcast的类，而为了能更新UI，BroadcastReceiver就需要写成activity的内部类的形式，为私有的不能被外部访问到，若声明为public类型，语法没错，但运行时会出错（一个Java源文件中最多只能有一个public类）。而该注册代码位于主Activity中，动态注册很难实现。  
 若是在AndroidManifest.xml文件中配置，如：  
 
-``` xml  
+
+```xml
 <receiver android:name=".UsbSuccReceiver">
 	<intent-filter>
 		<action android:name="SCAN_USB_SUCC"/>
@@ -38,7 +39,7 @@ registerReceiver(receiver, filter);
 
 android中好多地方都用到了回调机制，典型的就是各种控件的监听设置：  
 
-``` java  
+```java
 //定义接口
 public interface OnClickListenr{
 	public void onClick(Button b);
@@ -73,7 +74,7 @@ public class Activity{
 通过这种机制就能很好的解决上述问题，实际实现时，由于回调方法只能监听一个类，而实际情况是每次扫描时就会new一个ScanTask()出来，当时我想的是定义一个静态类型的ScanTask，就可以对其“监听"了；想法是这样，不过那边已经通过两个回调将三个类给联系起来了，我的话可能根本就不会想到还可以这样实现，还是知识不够。看不到那点，  
 首先定义了两个接口：  
 
-``` java
+```java
 public interface UsbStateChangeListener{
 	public void onUsbStateChange();
 }
@@ -85,7 +86,7 @@ public interface ScanDoneListener{
 
 然后在UsbBroadcastReceiver类中：  
 
-``` java
+``` 
 public class UsbBroadcastReceiver extends BroadcastReceiver{
 	...
 	UsbStateChangeListener mStateChangeListener;
@@ -101,7 +102,7 @@ public class UsbBroadcastReceiver extends BroadcastReceiver{
 
 在ScanTask类中  
 
-``` java
+```java
 public class ScanTask{
 	...
 	ScanDoneListener mScanDoneListener;
@@ -118,7 +119,7 @@ public class ScanTask{
 
 而在LocalDataSearchActivity类中，对UsbBroadcastReceiver设置监听  
 
-``` java
+```java
 mUsbBroadcastReceiver.setOnUsbStateChanged(new UsbStateChangedListener(){
 	@Override
 	public void onUsbStateChange(){

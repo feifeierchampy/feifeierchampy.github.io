@@ -6,7 +6,6 @@ tags:
 keywords:
 description:
 ---
-## 摘自《你的孤独，虽败犹荣》  –刘同
 
 ![你的孤独 虽败犹荣](/public/img/nidegudu.jpg)
 

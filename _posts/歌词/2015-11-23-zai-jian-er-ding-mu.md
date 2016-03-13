@@ -8,7 +8,6 @@ description:
 ---
 <embed src="http://www.xiami.com/widget/0_156254/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"/>
 
-## 再见二丁目-杨千烨  
 
 满街脚步 突然静了  
 满天柏树 突然没有动摇  
