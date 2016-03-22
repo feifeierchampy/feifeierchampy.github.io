@@ -23,13 +23,13 @@ description:
 长格式 `--help`
 组合命令选项  `-a -l` 组合成 `-al` 或 `-la`
 
-####常用命令
+#### 常用命令
 
 ##### 查看/设置环境变量
 - `echo $PATH`
 - `export PATH=$PATH:/home/user/work/` 新添加一个环境变量/home/user/work/ 该更改只是在此次登录有效， /etc/profile里更改长期有效
 
-#####文件相关
+##### 文件相关
 - `touch` 新建文件命令
 - `cat` 文本文件查看（不能分屏）
 - `more` 文本文件查看 （能分屏显示）
@@ -49,7 +49,7 @@ description:
 - `find . -type d -name "my" 只查找目录
 - `find -iname`不区分大小写
 
-#####获取root权限
+##### 获取root权限
 - `sudo -i` 可以输入当前管理员用户的密码就可以进到root用户
 - `sudo passwd root` 要一直使用root权限，首先要重新设置root用户的密码
 之后就可以自由的切换到root用户了。su 输入root用户密码即可
@@ -58,7 +58,7 @@ description:
     + `ctrl +d ` 回到原来的用户
     + `su userName` 直接转到那个用户 无需密码
 
-#####挂载
+##### 挂载
 - `mount` 查看当前已经挂载的设备
 - `mount -a` 依据配置文件`/etc/fstab的内容自动挂载
 - `mount -o remount,rw /system`   将system分区重新mount为读写状态，`-o` options主要用来描述设备或档案的挂载方式，常用参数有
@@ -67,7 +67,7 @@ description:
     + rw: 采用读写方式挂载设备
     + iocharset: 指定访问文件系统所用字符集
 
-#####进程相关命令
+##### 进程相关命令
 - `ps` 简单显示当前进程
     + `ps aux` 查看系统内所有进程
     + `pstree` 查看进程树，可显示进程与子进程的详细列表
@@ -86,7 +86,7 @@ description:
 #### 快捷键
 <img class="my_img" src="{{site.img_path}}/linux-hotkey.jpg">
 
-####使用USB存储设备
+#### 使用USB存储设备
 USB接口的移动硬盘、U盘对Linux系统而言是当作SCSI设备对待的
 1. 识别U盘 `/dev/sda` `/dev/sdb`
     `#fdisk -l`
@@ -96,9 +96,9 @@ USB接口的移动硬盘、U盘对Linux系统而言是当作SCSI设备对待的
     `#ls /mnt`
 4. 使用umount命令卸载U盘
     `#umount /mnt`
-####Shell
+#### Shell
 
-#####管道
+##### 管道
 `l`符用于连接左右两个命令，将`l`左边的命令执行结果（输出）作为`l`右边命令的输入。
 如`$cat /etc/passwd | grep lrj`
 
@@ -125,12 +125,12 @@ USB接口的移动硬盘、U盘对Linux系统而言是当作SCSI设备对待的
 - `tar cf mytar.tar test my.sh` 将test目录，my.sh文件打包为mytar.tar （并没有改变文件大小的作用）
 - `tar -tvf mytar.tar` 显示打包内容 显示为：
 
-``` shell
-drwxrwxr-x liuchang/liuchang 0 2016-02-24 10:58 test/  
--rw-rw-r-- liuchang/liuchang 85 2016-02-24 10:58 test/my.sh  
--rw-rw-r-- liuchang/liuchang 11 2016-02-24 10:58 test/my.txt  
--rw-rw-r-- liuchang/liuchang 85 2016-01-28 14:29 my.sh  
-```
+	``` shell
+	drwxrwxr-x liuchang/liuchang 0 2016-02-24 10:58 test/  
+	-rw-rw-r-- liuchang/liuchang 85 2016-02-24 10:58 test/my.sh  
+	-rw-rw-r-- liuchang/liuchang 11 2016-02-24 10:58 test/my.txt  
+	-rw-rw-r-- liuchang/liuchang 85 2016-01-28 14:29 my.sh  
+	```
 	
 - `tar cjf mycompress.tar.bz2 test my.sh` j表示采用bz2压缩工具
 
