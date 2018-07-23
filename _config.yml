@@ -5,12 +5,12 @@ markdown: kramdown
 img_path: http://7xkxii.com1.z0.glb.clouddn.com
 title: LC
 
-kramdown:
-    auto_ids:true,
-    footnote_nr:1
-    entity_output:as_char
-    toc_levels:1..6
-    use_coderay:false
+# kramdown:
+#     auto_ids:true,
+#     footnote_nr:1
+#     entity_output:as_char
+#     toc_levels:1..6
+#     use_coderay:false
 
 
 
