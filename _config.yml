@@ -1,6 +1,17 @@
 encoding: utf-8
 permalink: /:year/:month/:day/:title
-markdown: kramdown
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: [ "hard_wrap",
+                "autolink", 
+                "tables", 
+                "strikethrough", 
+                "superscript", 
+                "with_toc_data", 
+                "highlight", 
+                "prettify",
+                "no_intra_emphasis"]
 
 img_path: http://7xkxii.com1.z0.glb.clouddn.com
 title: LC
