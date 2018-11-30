@@ -104,7 +104,7 @@ Rect strokeRect = new RectF();
 int inset = mStrokePaint.getStrokeWidth * 0.5f;
 fillRect.set(bounds.left + inset, bounds.top + inset,
 	bounds.right - inset, bounds.bottom - inset);
-canvas.drawOval(fillRect, mStrokePaint);
+canvas.drawOval(strokeRect, mStrokePaint);
 
 ```  
 
