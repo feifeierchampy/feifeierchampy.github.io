@@ -41,7 +41,7 @@ background.xml
 ```
 
 实现效果却是这样  
-[1](/images/2018-1130-01.png)  
+![1](/images/2018-1130-01.png)  
 如果你stroke的颜色是不透明的效果是对的  
 但是如果stroke颜色是带有透明度的话 就像现在 可以看到圆环和填充圆有一部分重叠了  
 这样就不是我们想要的效果了  
@@ -50,7 +50,7 @@ background.xml
 #### 原因
 
 为啥会这样呢 顺着代码 一步步可以找到 `<shape>` 这个标签最终绘制时的实现是 `GradientDrawable.java`里的 `draw()` 方法  
-[2](/images/2018-1130-02.png)  
+![2](/images/2018-1130-02.png)  
 再看下这个rect的区域范围是多少 rect是在 `draw()` 里的 `ensureValidRect()` 里初始化的
 ```
 @Override
@@ -62,8 +62,8 @@ public void draw(Canvas canvas) {
     ...
 }   
 ```  
-[3](/images/2018-1130-03.png)  
+![3](/images/2018-1130-03.png)  
 可以知道rect的实际范围是黄色区域那部分  
-[4](/images/2018-1130-04.png)
+![4](/images/2018-1130-04.png)
 
 
