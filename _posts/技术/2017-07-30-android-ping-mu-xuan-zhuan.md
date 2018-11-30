@@ -26,7 +26,9 @@ description:
 - nosensor
     + 忽略物理传感器 这样就不会随着用户旋转设备而更改了
 - behind
-    + 和该activity下面的那个activity方向一致（在activity堆栈中的） 这个按我的理解是假如栈顶activity设置为behind的属性 这时如果它下面那个activity是横屏的 那么这个activity也就是横屏的 如果它下面那个activity是竖屏的 那么这个activity也就是竖屏的 可实际实验发现并不是我想的这样 所以目前还不太理解这个属性该怎么用
+    + 和该activity下面的那个activity方向一致（在activity堆栈中的） 这个按我的理解是假如栈顶activity设置为behind的属性 
+    这时如果它下面那个activity是横屏的 那么这个activity也就是横屏的 如果它下面那个activity是竖屏的 
+    那么这个activity也就是竖屏的 可实际实验发现并不是我想的这样 所以目前还不太理解这个属性该怎么用
 
 ### 2. AndroidManifest.xml中设置
 
