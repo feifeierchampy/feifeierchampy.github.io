@@ -71,13 +71,12 @@ canvas.drawOval(mRect, mFillPaint);
 canvas.drawOval(mRect, mStrokePaint);
 
 ```  
-实际绘制区域是哪里？  
+上面这段代码的实际绘制区域是哪里？  
 可以看出如果paint的style是FILL 那么是我们期望的效果  
 而如果paint的style是STROKE 从结果看似乎它是以矩形框的为中间线 里外分别画了一半  
-这也就解释了为啥这里要乘0.5f 好吧这样在颜色是不透明的时候是没问题的  
+这也就解释了为啥这里要乘0.5f  好吧这样在颜色是不透明的时候是没问题的  
 但是当stroke颜色有透明度的时候 重叠部分的就会显现出来  
 ```java
-
 if (mStrokePaint != null) {
     inset = mStrokePaint.getStrokeWidth() * 0.5f;
 }
@@ -111,7 +110,6 @@ canvas.drawOval(fillRect, mFillPaint);
 
 但是在改不了源码的情况下 要实现期望的效果 一种改法是这样 使用 `<layer-list>`  
 ```java
-
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
   <item
     android:bottom="10dp"
